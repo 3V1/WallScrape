@@ -12,7 +12,7 @@
     - Start Scraping Wallpapers!
 
 ## The code is unreadable
- - cry about it
+ - i know
 
 ## Todo
 - Add An Option To Run With Proxies
